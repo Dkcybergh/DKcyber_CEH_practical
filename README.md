@@ -70,5 +70,5 @@ sudo apt update && sudo apt install nmap sqlmap whatweb dnsenum enum4linux nikto
 git clone https://github.com/Dkcybergh/DKcyber_CEH_practical.git
 cd dkcyber_CEH_practical
 
-chmod +x dkcyber_ceh.sh
+chmod +x DKcyber_CEH.sh
 ./dkcyber_ceh.sh
